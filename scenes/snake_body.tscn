@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://b03samy6w7v5q"]
+
+[ext_resource type="Texture2D" uid="uid://bbf63tuuq2qm8" path="res://icon.svg" id="1_ggdar"]
+
+[node name="SnakeBody" type="Sprite2D" unique_id=1716021543]
+modulate = Color(0, 0, 0, 1)
+texture = ExtResource("1_ggdar")
