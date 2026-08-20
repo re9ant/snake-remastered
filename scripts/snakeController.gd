@@ -30,6 +30,7 @@ func _process(delta: float) -> void:
 	pass
 
 func addSnakeBody() -> void:
+	#snakeBody
 	pass
 
 func updateSnakePos() -> void:
