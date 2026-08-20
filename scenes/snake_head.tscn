@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dxalwb2grei0x"]
+
+[ext_resource type="Texture2D" uid="uid://bbf63tuuq2qm8" path="res://icon.svg" id="1_iusa3"]
+[ext_resource type="Script" uid="uid://bni3ibs4jdqja" path="res://scripts/snakeController.gd" id="2_oa4ia"]
+
+[node name="SnakeHead" type="Sprite2D" unique_id=1716021543]
+texture = ExtResource("1_iusa3")
+script = ExtResource("2_oa4ia")
+
+[node name="bodies" type="Node2D" parent="." unique_id=1270555929]
